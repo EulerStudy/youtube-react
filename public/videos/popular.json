@@ -1,0 +1,1571 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "TTyE4jFm7bmazIIF5zimMcgS69o",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jlSeuTWNGjw0aQiLjgdCg2Qdof8",
+            "id": "-UJCMfuFtSQ",
+            "snippet": {
+                "publishedAt": "2023-07-19T16:00:07Z",
+                "channelId": "UCbOCbp5gXL8jigIBZLqMPrw",
+                "title": "Harry Styles - Daylight (Official Video)",
+                "description": "Official Video for \"Daylight\" by Harry Styles.\nHarry's album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer\niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n \nCredits:\nMade with love by a creative team from Ukraine.\nDirector: Tanu Muino\nProducers: Bryan Younce, Frank Borin, Ivanna Borin, Mauricio Von Trapp\nCreative Director: Molly Hawkins\nProduction Company: UnderWonder Content\nDirector of Photograph: Nikita Kuzmenko\nProduction Designer: Spencer Graves\nEditor: Carlos Font Clos\nColorist: Joseph Bicknell\n\n\nLyrics:\nI’m on the roof,\nYou’re in your airplane seat,\nI was nose bleeding,\nLooking for life out there,\nReading your horoscope,\nYou were just doing cocaine in my kitchen,\nYou never listen,\nI hope you’re missing me by now,\n \nIf I was a bluebird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\n \nOut of New York,\nI’m on the come down speed,\nWe’re on bicycles,\nSaying there’s life out there,\nYou’ve got the antidote,\nI’ll take one to go, go please,\nGet the picture,\nCut out my middle,\nYou ain’t got time for me right now,\n \nIf I was a bluebird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\n \nIf I was a blue bird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \n \n#HarryStyles #HarrysHouse #Daylight",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-UJCMfuFtSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-UJCMfuFtSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-UJCMfuFtSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-UJCMfuFtSQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-UJCMfuFtSQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HarryStylesVEVO",
+                "tags": [
+                    "HarryStyles",
+                    "Harry's House",
+                    "HarrysHouse",
+                    "May 20",
+                    "new album",
+                    "harry styles",
+                    "Golden",
+                    "FineLine",
+                    "WatermelonSugar",
+                    "Harry",
+                    "Adore You",
+                    "LightsUp",
+                    "Cherry",
+                    "Falling",
+                    "Sunflower",
+                    "TreatPeoplewithKindness",
+                    "Line",
+                    "Fine",
+                    "Hstyles",
+                    "kiwi",
+                    "Canyon Moon",
+                    "To Be So Lonely",
+                    "You’re so Golden",
+                    "as it was",
+                    "asitwas",
+                    "Music for sushi restaurant",
+                    "love of my life",
+                    "boyfriends",
+                    "satellite",
+                    "keep driving",
+                    "matilda",
+                    "little freak",
+                    "grapejuice",
+                    "daylight",
+                    "late night talking",
+                    "cinema"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Harry Styles - Daylight (Official Video)",
+                    "description": "Official Video for \"Daylight\" by Harry Styles.\nHarry's album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer\niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n \nCredits:\nMade with love by a creative team from Ukraine.\nDirector: Tanu Muino\nProducers: Bryan Younce, Frank Borin, Ivanna Borin, Mauricio Von Trapp\nCreative Director: Molly Hawkins\nProduction Company: UnderWonder Content\nDirector of Photograph: Nikita Kuzmenko\nProduction Designer: Spencer Graves\nEditor: Carlos Font Clos\nColorist: Joseph Bicknell\n\n\nLyrics:\nI’m on the roof,\nYou’re in your airplane seat,\nI was nose bleeding,\nLooking for life out there,\nReading your horoscope,\nYou were just doing cocaine in my kitchen,\nYou never listen,\nI hope you’re missing me by now,\n \nIf I was a bluebird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\n \nOut of New York,\nI’m on the come down speed,\nWe’re on bicycles,\nSaying there’s life out there,\nYou’ve got the antidote,\nI’ll take one to go, go please,\nGet the picture,\nCut out my middle,\nYou ain’t got time for me right now,\n \nIf I was a bluebird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou got me cursing the daylight,\nDaylight,\nYou’ve got me calling at all times,\nAin’t gonna sleep ’til the daylight,\n \nIf I was a blue bird,\nI would fly to you,\nYou’d be the spoon,\nDip you in honey so I could be sticking to you,\n \n \n#HarryStyles #HarrysHouse #Daylight"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "O6S2imhVe_9vgTw1hWkiHPtN8n0",
+            "id": "WkHrFn4Fx6Q",
+            "snippet": {
+                "publishedAt": "2023-07-19T08:10:00Z",
+                "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+                "title": "skibidi toilet 50",
+                "description": "someone has finally awaken\nskibidi dop dop dop yes yes\nfull-screen version\n\nRespectful assets used in the video:\nspeakers - https://steamcommunity.com/sharedfiles/filedetails/?id=2680336465\nsuits - https://steamcommunity.com/sharedfiles/filedetails/?id=2849230339\n\n(if you're author of certain assets and I didn't credit you properly, please contact me)\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WkHrFn4Fx6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WkHrFn4Fx6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WkHrFn4Fx6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WkHrFn4Fx6Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WkHrFn4Fx6Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DaFuq!?Boom!",
+                "tags": [
+                    "toilet in ohio",
+                    "skibidi meme",
+                    "tiktok meme",
+                    "sfm animation",
+                    "funny animation",
+                    "gmod animation",
+                    "skibidi toilet vs cameramen",
+                    "titan cameraman"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "skibidi toilet 50",
+                    "description": "someone has finally awaken\nskibidi dop dop dop yes yes\nfull-screen version\n\nRespectful assets used in the video:\nspeakers - https://steamcommunity.com/sharedfiles/filedetails/?id=2680336465\nsuits - https://steamcommunity.com/sharedfiles/filedetails/?id=2849230339\n\n(if you're author of certain assets and I didn't credit you properly, please contact me)\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "oeIfK30Df1Kvg2-8BNAqcn9l8Ks",
+            "id": "xlR1MEYhE4c",
+            "snippet": {
+                "publishedAt": "2023-07-19T16:00:30Z",
+                "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+                "title": "2023 XXL Freshman Cypher With Rob49, Luh Tyler, DC The Don, SleazyWorld Go, 2Rare, TiaCorine",
+                "description": "Watch the 2023 XXL Freshman cypher featuring Rob49, Luh Tyler, DC The Don, SleazyWorld Go, 2Rare and TiaCorine.\n\nBeat for cypher produced by Pi’erre Bourne\n\nVideo directed by Travis Satten (https://www.travissatten.com/)\nVideo produced by The Rhythm Section Creative (https://www.therhythmsection.us/)\n\nBuy the 2023 XXL Freshman Class magazine here: https://shop.xxlmag.com/p/xxl-magazine-freshman-class-2023-issue\n\nVisit the 2023 XXL Freshman Class official page: https://www.xxlmag.com/freshman/\n\n#XXLFreshman #XXLFreshmen #Rob49 #LuhTyler #DCTheDon #SleazyWorldGo #2Rare #TiaCorine #PierreBourne #HipHop #Rap #Rapper #Cypher #Freestyle \n\nSubscribe to XXL → http://bit.ly/subscribe-xxl \n\nGo here → http://www.xxlmag.com/\nXXL on Twitter → https://twitter.com/XXL\nXXL on Instagram → https://instagram.com/xxl/\nXXL on Facebook → https://www.facebook.com/xxlmag",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xlR1MEYhE4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xlR1MEYhE4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xlR1MEYhE4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xlR1MEYhE4c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xlR1MEYhE4c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "XXL",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "2023 XXL Freshman Cypher With Rob49, Luh Tyler, DC The Don, SleazyWorld Go, 2Rare, TiaCorine",
+                    "description": "Watch the 2023 XXL Freshman cypher featuring Rob49, Luh Tyler, DC The Don, SleazyWorld Go, 2Rare and TiaCorine.\n\nBeat for cypher produced by Pi’erre Bourne\n\nVideo directed by Travis Satten (https://www.travissatten.com/)\nVideo produced by The Rhythm Section Creative (https://www.therhythmsection.us/)\n\nBuy the 2023 XXL Freshman Class magazine here: https://shop.xxlmag.com/p/xxl-magazine-freshman-class-2023-issue\n\nVisit the 2023 XXL Freshman Class official page: https://www.xxlmag.com/freshman/\n\n#XXLFreshman #XXLFreshmen #Rob49 #LuhTyler #DCTheDon #SleazyWorldGo #2Rare #TiaCorine #PierreBourne #HipHop #Rap #Rapper #Cypher #Freestyle \n\nSubscribe to XXL → http://bit.ly/subscribe-xxl \n\nGo here → http://www.xxlmag.com/\nXXL on Twitter → https://twitter.com/XXL\nXXL on Instagram → https://instagram.com/xxl/\nXXL on Facebook → https://www.facebook.com/xxlmag"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IbMPZLajRqB6__Bc0uvyEZp-2ss",
+            "id": "bsinF-k9q4s",
+            "snippet": {
+                "publishedAt": "2023-07-19T17:05:00Z",
+                "channelId": "UCtbR0PykhOjHOMqfkbIw5kA",
+                "title": "We Were Umpires In A Real Baseball Game!",
+                "description": "Go to https://www.chime.com/momentum to sign up for a Chime Credit Builder Visa Credit Card today! Thanks to Chime for supporting the show\n\n👇Follow Momentum on social media👇 \nhttps://www.twitter.com/Watch_Momentum\nhttps://www.instagram.com/watch_momentum\nhttps://www.facebook.com/WatchMomentum1/\nhttps://www.tiktok.com/@watch_momentum\n\nSHOP MOMENTUM at https://watch-momentum.com/shop\n\nMusicBed ID: MB01N1DFYKX2TOJ\n\n#baseball #softball #umpire",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bsinF-k9q4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bsinF-k9q4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bsinF-k9q4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bsinF-k9q4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bsinF-k9q4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Momentum",
+                "tags": [
+                    "baseball",
+                    "momentum",
+                    "strikeout",
+                    "documentary",
+                    "video",
+                    "pitching",
+                    "hitting",
+                    "mlb",
+                    "milb",
+                    "the game",
+                    "the show",
+                    "commissioner",
+                    "rob manfred",
+                    "trevor bauer",
+                    "mike clevinger",
+                    "major leagues",
+                    "watch momentum",
+                    "pitcher",
+                    "pitch",
+                    "bauer bytes",
+                    "live at bats",
+                    "los angeles dodgers",
+                    "dodgers",
+                    "rachel luba",
+                    "behind the scenes",
+                    "day in the life",
+                    "free agency",
+                    "sports",
+                    "inside the covid season",
+                    "major league baseball",
+                    "trevor bauer vlog",
+                    "yasiel puig",
+                    "trevor bauer mic'd up",
+                    "vlog"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "We Were Umpires In A Real Baseball Game!",
+                    "description": "Go to https://www.chime.com/momentum to sign up for a Chime Credit Builder Visa Credit Card today! Thanks to Chime for supporting the show\n\n👇Follow Momentum on social media👇 \nhttps://www.twitter.com/Watch_Momentum\nhttps://www.instagram.com/watch_momentum\nhttps://www.facebook.com/WatchMomentum1/\nhttps://www.tiktok.com/@watch_momentum\n\nSHOP MOMENTUM at https://watch-momentum.com/shop\n\nMusicBed ID: MB01N1DFYKX2TOJ\n\n#baseball #softball #umpire"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6YIyxOflo9Cgret_VbMsxaH6F9c",
+            "id": "Xzv84ZdtlE0",
+            "snippet": {
+                "publishedAt": "2023-07-18T23:28:16Z",
+                "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+                "title": "Why Oppenheimer Deserves His Own Movie",
+                "description": "J. Robert Oppenheimer forever changed the course of history. He may be the most important physicist to have ever lived. Part of this video is sponsored by Wren. Offset your carbon footprint on Wren: ​https://www.wren.co/start/veritasium1 For the first 100 people who sign up, I will personally pay for the first month of your subscription!\n\nIf you want to learn more about Oppeheimer, I strongly recommend the book “American Prometheus” By Kai Bird and Martin Sherwin. It is a remarkable book, very much deserving of the Pulitzer prize it received.\n\nIf you’re looking for a molecular modeling kit, try Snatoms – a kit I invented where the atoms snap together magnetically – https://ve42.co/SnatomsV\n\n▀▀▀\nA huge thank you to Dr. Martin Rohde and Dr. Antonia Denkova from the TU Delft for proofreading the script and providing valuable feedback.\n\n▀▀▀\nReferences:\n\nBird, K., & Sherwin, M. J. (2021). American Prometheus: the triumph and tragedy of J. Robert Oppenheimer. Atlantic Books.\n\nSmith, A. K., & Weiner, C. (1980). Robert Oppenheimer: letters and recollections. Bulletin of the Atomic Scientists, 36(5), 19-27. - https://ve42.co/Smith1980 \n\nCombes, J. M., Duclos, P., & Seiler, R. (1981). The born-oppenheimer approximation. Rigorous atomic and molecular physics, 185-213. - https://ve42.co/Combes1981 \n\nRhodes, R. (2012). The making of the atomic bomb. Simon and Schuster.\n\nOppenheimer, J. R., & Volkoff, G. M. (1939). On massive neutron cores. Physical Review, 55(4), 374. - https://ve42.co/Oppenheimer1939b \n\nOppenheimer, J. R. (1927). Bemerkung zur Zerstreuung der α-Teilchen. Zeitschrift für Physik, 43(5-6), 413-415. - https://ve42.co/Oppenheimer1927 \n\nOppenheimer, J. R. (1927). Zur quantenmechanik der richtungsentartung. Zeitschrift für Physik, 43(1-2), 27-46. - https://ve42.co/Oppenheimer1927b \n\nBorn, M., & Oppenheimer, R. (1927). Zur Quantentheorie der Molekeln Annalen der Physik, v. 84. - https://ve42.co/Born1927 \n\nOppenheimer, J. R. (1928). Three notes on the quantum theory of aperiodic effects. Physical review, 31(1), 66.\n\nOppenheimer, J. R. (1928). On the quantum theory of the capture of electrons. Physical review, 31(3), 349.\n\nOppenheimer, J. R. (1931). Note on light quanta and the electromagnetic field. Physical Review, 38(4), 725.\n\nFurry, W. H., & Oppenheimer, J. R. (1934). On the theory of the electron and positive. Physical Review, 45(4), 245. - https://ve42.co/Oppenheimer1934 \n\nOppenheimer, J. R. (1935). Note on charge and field fluctuations. Physical Review, 47(2), 144. - https://ve42.co/Oppenheimer1935 \n\nOppenheimer, J. R., & Snyder, H. (1939). On continued gravitational contraction. Physical Review, 56(5), 455. - https://ve42.co/Oppenheimer1939 \n\nOppenheimer, J. R., & Phillips, M. (1935). Note on the transmutation function for deuterons. Physical Review, 48(6), 500. - https://ve42.co/Oppenheimer1935b \n\nMalik, J. (1985). Yields of the Hiroshima and Nagasaki nuclear explosions (No. LA-8819). Los Alamos National Lab.(LANL), Los Alamos, NM (United States). - https://ve42.co/Malik1985 \n\nIgnition of the atmosphere with nuclear bombs -- https://ve42.co/Konopinski46\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Amadeo Bee, Anton Ragin, Balkrishna Heroor, Benedikt Heinen, Bernard McGee, Bill Linder, Blake Byers, Burt Humburg, Dave Kircher, Diffbot, Evgeny Skvortsov, Gnare, John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n▀▀▀\nWritten by Petr Lebedev & Derek Muller\nEdited by Trenton Oliver & Katrina Jackson\nFilmed by Derek Muller\nAnimation by Fabio Albertelli, Ivy Tello, & Mike Radjabov\nIllustration by Jakub Misiek and Celia Bode\nAdditional video/photos supplied by Getty Images & Pond5\nMusic from Epidemic Sound",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xzv84ZdtlE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xzv84ZdtlE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xzv84ZdtlE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xzv84ZdtlE0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xzv84ZdtlE0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Veritasium",
+                "tags": [
+                    "veritasium",
+                    "science",
+                    "physics"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Why Oppenheimer Deserves His Own Movie",
+                    "description": "J. Robert Oppenheimer forever changed the course of history. He may be the most important physicist to have ever lived. Part of this video is sponsored by Wren. Offset your carbon footprint on Wren: ​https://www.wren.co/start/veritasium1 For the first 100 people who sign up, I will personally pay for the first month of your subscription!\n\nIf you want to learn more about Oppeheimer, I strongly recommend the book “American Prometheus” By Kai Bird and Martin Sherwin. It is a remarkable book, very much deserving of the Pulitzer prize it received.\n\nIf you’re looking for a molecular modeling kit, try Snatoms – a kit I invented where the atoms snap together magnetically – https://ve42.co/SnatomsV\n\n▀▀▀\nA huge thank you to Dr. Martin Rohde and Dr. Antonia Denkova from the TU Delft for proofreading the script and providing valuable feedback.\n\n▀▀▀\nReferences:\n\nBird, K., & Sherwin, M. J. (2021). American Prometheus: the triumph and tragedy of J. Robert Oppenheimer. Atlantic Books.\n\nSmith, A. K., & Weiner, C. (1980). Robert Oppenheimer: letters and recollections. Bulletin of the Atomic Scientists, 36(5), 19-27. - https://ve42.co/Smith1980 \n\nCombes, J. M., Duclos, P., & Seiler, R. (1981). The born-oppenheimer approximation. Rigorous atomic and molecular physics, 185-213. - https://ve42.co/Combes1981 \n\nRhodes, R. (2012). The making of the atomic bomb. Simon and Schuster.\n\nOppenheimer, J. R., & Volkoff, G. M. (1939). On massive neutron cores. Physical Review, 55(4), 374. - https://ve42.co/Oppenheimer1939b \n\nOppenheimer, J. R. (1927). Bemerkung zur Zerstreuung der α-Teilchen. Zeitschrift für Physik, 43(5-6), 413-415. - https://ve42.co/Oppenheimer1927 \n\nOppenheimer, J. R. (1927). Zur quantenmechanik der richtungsentartung. Zeitschrift für Physik, 43(1-2), 27-46. - https://ve42.co/Oppenheimer1927b \n\nBorn, M., & Oppenheimer, R. (1927). Zur Quantentheorie der Molekeln Annalen der Physik, v. 84. - https://ve42.co/Born1927 \n\nOppenheimer, J. R. (1928). Three notes on the quantum theory of aperiodic effects. Physical review, 31(1), 66.\n\nOppenheimer, J. R. (1928). On the quantum theory of the capture of electrons. Physical review, 31(3), 349.\n\nOppenheimer, J. R. (1931). Note on light quanta and the electromagnetic field. Physical Review, 38(4), 725.\n\nFurry, W. H., & Oppenheimer, J. R. (1934). On the theory of the electron and positive. Physical Review, 45(4), 245. - https://ve42.co/Oppenheimer1934 \n\nOppenheimer, J. R. (1935). Note on charge and field fluctuations. Physical Review, 47(2), 144. - https://ve42.co/Oppenheimer1935 \n\nOppenheimer, J. R., & Snyder, H. (1939). On continued gravitational contraction. Physical Review, 56(5), 455. - https://ve42.co/Oppenheimer1939 \n\nOppenheimer, J. R., & Phillips, M. (1935). Note on the transmutation function for deuterons. Physical Review, 48(6), 500. - https://ve42.co/Oppenheimer1935b \n\nMalik, J. (1985). Yields of the Hiroshima and Nagasaki nuclear explosions (No. LA-8819). Los Alamos National Lab.(LANL), Los Alamos, NM (United States). - https://ve42.co/Malik1985 \n\nIgnition of the atmosphere with nuclear bombs -- https://ve42.co/Konopinski46\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nAdam Foreman, Amadeo Bee, Anton Ragin, Balkrishna Heroor, Benedikt Heinen, Bernard McGee, Bill Linder, Blake Byers, Burt Humburg, Dave Kircher, Diffbot, Evgeny Skvortsov, Gnare, John H. Austin, Jr., john kiehl, Josh Hibschman, Juan Benet, KeyWestr, Lee Redden, Marinus Kuivenhoven, Meekay, meg noah, Michael Krugman, Orlando Bassotto, Paul Peijzel, Richard Sundvall, Sam Lutfi, Stephen Wilcox, Tj Steyn, TTST, Ubiquity Ventures\n\n▀▀▀\nWritten by Petr Lebedev & Derek Muller\nEdited by Trenton Oliver & Katrina Jackson\nFilmed by Derek Muller\nAnimation by Fabio Albertelli, Ivy Tello, & Mike Radjabov\nIllustration by Jakub Misiek and Celia Bode\nAdditional video/photos supplied by Getty Images & Pond5\nMusic from Epidemic Sound"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OfZBoG6WjyqQB0jZ0Hw5SiZgkGM",
+            "id": "HBhfy8UR_p8",
+            "snippet": {
+                "publishedAt": "2023-07-19T16:00:23Z",
+                "channelId": "UC7v3-2K1N84V67IF-WTRG-Q",
+                "title": "Oppenheimer - Movie Review",
+                "description": "Christopher Nolan brings up a biopic starring Cillian Murphy about J. Robert Oppenheimer (The father of the A-Bomb). Here's my review of OPPENHEIMER!\n\n#Oppenheimer #OppenheimerMovie",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBhfy8UR_p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBhfy8UR_p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBhfy8UR_p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HBhfy8UR_p8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HBhfy8UR_p8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jeremy Jahns",
+                "tags": [
+                    "oppenheimer",
+                    "cillian",
+                    "nolan",
+                    "atomic",
+                    "biopic"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Oppenheimer - Movie Review",
+                    "description": "Christopher Nolan brings up a biopic starring Cillian Murphy about J. Robert Oppenheimer (The father of the A-Bomb). Here's my review of OPPENHEIMER!\n\n#Oppenheimer #OppenheimerMovie"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Dp_9SeSZESI9KKJVz7lDFKi-OZ0",
+            "id": "6Gv6A5dy3VM",
+            "snippet": {
+                "publishedAt": "2023-07-19T14:00:05Z",
+                "channelId": "UCtNBFUsxj2YVbEc5HquzFqg",
+                "title": "Last To Stop Riding Wins $10,000 (Off-Road Edition)",
+                "description": "🔥SHOP NOW!!🔥━► https://www.teamrar.com/ \n\nGet ready for an adrenaline-fueled off-road adventure like never before! Join us on an epic Last to Stop Riding Challenge at the breathtaking Busco Beach! Who will come out as the winner in this endurance filled challenge? Will it be Carter? Andrew? Matt? Drew? Or Richard? Keep watching to find out who takes home the prize!\n\n\n\n💌SEND US YOUR FAN MAIL!!💌\n\nTeam RAR\n4501 New Bern Ave \nSuite 130, Box # 360\nRaleigh NC, 27610\n\n❇️ MORE EPIC VLOGS ❇️\n\n-----------------------------------------------------------------------------------------------------------\n📷INSTAGRAM → @CarterSharer https://www.instagram.com/cartersharer/\n📷INSTAGRAM → @OfficalTeamRAR https://www.instagram.com/officialteamrar/\n📷INSTAGRAM → @LizzyCapri https://www.instagram.com/lizzycapri/\n📘FACEBOOK → CARTER SHARER OFFICIAL https://goo.gl/WM7mBu\n\nSubscribe to my channel! https://goo.gl/XjjCA8\n-----------------------------------------------------------------------------------------------------------\nBusiness Inquiries: carter@nightmedia.co\n\nWARNING: \nThis video is only for entertainment purposes. Do not attempt to recreate any of the acts in this video, as they may be dangerous if not done correctly, and could result in serious injury. If you rely on the information portrayed in this video, you assume the responsibility for the results. Have fun, but always think ahead, and remember that every project you try is at YOUR OWN RISK.\n\nThis footage is property of Team RAR inc. and is not allowed to be repurposed without written consent from Team RAR inc. For any requests from media contact us at carter@nightmedia.co",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Gv6A5dy3VM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Gv6A5dy3VM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Gv6A5dy3VM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Gv6A5dy3VM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6Gv6A5dy3VM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carter Sharer",
+                "tags": [
+                    "Carter Sharer",
+                    "Team RAR",
+                    "carter",
+                    "carter share"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Last To Stop Riding Wins $10,000 (Off-Road Edition)",
+                    "description": "🔥SHOP NOW!!🔥━► https://www.teamrar.com/ \n\nGet ready for an adrenaline-fueled off-road adventure like never before! Join us on an epic Last to Stop Riding Challenge at the breathtaking Busco Beach! Who will come out as the winner in this endurance filled challenge? Will it be Carter? Andrew? Matt? Drew? Or Richard? Keep watching to find out who takes home the prize!\n\n\n\n💌SEND US YOUR FAN MAIL!!💌\n\nTeam RAR\n4501 New Bern Ave \nSuite 130, Box # 360\nRaleigh NC, 27610\n\n❇️ MORE EPIC VLOGS ❇️\n\n-----------------------------------------------------------------------------------------------------------\n📷INSTAGRAM → @CarterSharer https://www.instagram.com/cartersharer/\n📷INSTAGRAM → @OfficalTeamRAR https://www.instagram.com/officialteamrar/\n📷INSTAGRAM → @LizzyCapri https://www.instagram.com/lizzycapri/\n📘FACEBOOK → CARTER SHARER OFFICIAL https://goo.gl/WM7mBu\n\nSubscribe to my channel! https://goo.gl/XjjCA8\n-----------------------------------------------------------------------------------------------------------\nBusiness Inquiries: carter@nightmedia.co\n\nWARNING: \nThis video is only for entertainment purposes. Do not attempt to recreate any of the acts in this video, as they may be dangerous if not done correctly, and could result in serious injury. If you rely on the information portrayed in this video, you assume the responsibility for the results. Have fun, but always think ahead, and remember that every project you try is at YOUR OWN RISK.\n\nThis footage is property of Team RAR inc. and is not allowed to be repurposed without written consent from Team RAR inc. For any requests from media contact us at carter@nightmedia.co"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d8hPlgEPcZgWGMnVqJmOkaXThgY",
+            "id": "JoVhE3MftPc",
+            "snippet": {
+                "publishedAt": "2023-07-19T00:43:46Z",
+                "channelId": "UCJbYdyufHR-cxOuY96KIoqA",
+                "title": "AMP LOVE & BASKETBALL 2",
+                "description": "GET APPAREL DROP 2 BEFORE ITS SOLD OUT https://amp.shop\n\nSUB TO THE AMP PODCAST CHANNEL https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nSHOUTOUT THE GIRLS FOR SHOWING OUT!\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JoVhE3MftPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JoVhE3MftPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JoVhE3MftPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JoVhE3MftPc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JoVhE3MftPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AMP",
+                "tags": [
+                    "AMP LOVE & BASKETBALL",
+                    "AMP LOVE & BASKETBALL 2",
+                    "AMP BASKETBALL",
+                    "KAI CENAT",
+                    "DUKE DENNIS",
+                    "FANUM",
+                    "AGENT 00",
+                    "IMDAVISSS",
+                    "CHRISNXTDOOR",
+                    "YOURRAGE",
+                    "JIDION",
+                    "ISHOWSPEED"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "AMP LOVE & BASKETBALL 2",
+                    "description": "GET APPAREL DROP 2 BEFORE ITS SOLD OUT https://amp.shop\n\nSUB TO THE AMP PODCAST CHANNEL https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nSHOUTOUT THE GIRLS FOR SHOWING OUT!\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7EDtnqbl8-yETN_VgPphT0y0ADQ",
+            "id": "Xx1PLArdTmY",
+            "snippet": {
+                "publishedAt": "2023-07-19T14:00:32Z",
+                "channelId": "UC2nMSE3t71qC8sG06WSJnMg",
+                "title": "Diablo 4 - Patch 1.1 is DISGRACEFUL - More Nerfs Found, Devs Confirm More Changes, Season 1 Ruined!",
+                "description": "Patch 1.1 is one of the biggest failures in recent gaming history... Enjoy!\nSupport us on Patreon: http://bit.ly/1FUac4S\nHunters Three Channel Shop: https://huntersthree.store/\n\nDiscord Community: https://discord.gg/fQH5buc\n\nMonster Hunter Rise Sunbreak gameplay is on hold for now we look at new Diablo 4 and the Diablo 4 gameplay Diablo 4 best class Diablo 4 Sorceress Barbarian Necromancer Druid Rogue build guide Diablo 4 most powerful class Diablo 4 best build skills abilities Diablo 4 best build all classes highest damage Diablo 4 Diablo 4 Balance Patch Diablo 4 Class Nerfs & Buffs Diablo 4 Patch 1.1 notes breakdown guide explained Diablo 4 Nerf Buff Diablo 4 Expansion Diablo 4 Season 1 Season of the Malignant release date announcement dev stream chat Diablo 4 Cormond New Legendary Aspects Unique Gear Malignant Tunnel Dungeon Season Journey Chapters Battle Pass Favours Malignant Hearts Wrathful Heart Elites Codex Invoker New Bosses Malignant Elites Diablo 4 Patch 1.1 Malignant Heart Crafting New Legendary Aspects Season of the Malignant new boss gameplay chapters story reveal Diablo 4 Season 1 new ultra rare uber unique class nerf buff nightmare dungeon drop rate! Diablo 4 Season of the Malignant 1 prep guide Diablo 4 Patch 1.1 patch notes nerfs xp changes affix gear nerf Diablo 4 Patch 1.1 Campfire Chat backlash!\n\n#diablo4 #diablo4season1patch1.1 #diablo41.1 #season1patch #diablo4seasonofthemalignant #season1 #diablo4patch1.1 #nerf #buff\n\nSubscribe (http://bit.ly/1hTCETC) for more gaming content and read the description to fulfil your dreams!\n\nIncredible thumbnail art by Lighght: https://twitter.com/llighght\n\nFor exclusives, fun times and general shenanigans follow me on:\nTwitter: http://twitter.com/ragegamingvideo\nFacebook: http://www.facebook.com/RageGamingVideos\n\nMore life changing links!\nSteam Group: http://steamcommunity.com/groups/RageGamingVideos\nStream: http://www.twitch.tv/ragegamingvideos\nReddit: http://www.reddit.com/r/RageGaming/\nEmail: ragegaminggeneral@gmail.com\nT-Shirts: http://www.redbubble.com/people/ragegamingvideo/shop\n\nI'm Josh with Cotton and Hollow. We make funny things, we make useful things and we end up in many improbable situations. If you've got this far in the description you are an intrepid explorer of boxes and I approve you as a comrade in curiosity. So join me on this adventure as we make multitudes of majorly magnificent videos as we be excessively modest and have a good time! Thanks for watching and reading, give yourself a cookie.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xx1PLArdTmY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xx1PLArdTmY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xx1PLArdTmY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xx1PLArdTmY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xx1PLArdTmY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RageGamingVideos",
+                "tags": [
+                    "diablo 4 campfire chat",
+                    "diablo 4 drama",
+                    "diablo 4 patch 1.1",
+                    "patch 1.1",
+                    "season 1 patch",
+                    "season 1",
+                    "season of the malignant",
+                    "xp nerf",
+                    "dungeon nerf",
+                    "affix nerf",
+                    "diablo 4 season 1",
+                    "diablo 4 season of the malignant",
+                    "diablo 4 xp changes",
+                    "diablo 4 balance patch",
+                    "diablo 4 nerf",
+                    "diablo 4 patch",
+                    "diablo 4 update",
+                    "diablo 4 balance changes",
+                    "diablo 4 buff",
+                    "diablo 4 class changes",
+                    "patch notes",
+                    "new",
+                    "rogue",
+                    "barbarian",
+                    "sorcerer",
+                    "druid",
+                    "necromancer",
+                    "season 1 patch 1.1",
+                    "patch",
+                    "nerf",
+                    "d4",
+                    "ragegamingvideos"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Diablo 4 - Patch 1.1 is DISGRACEFUL - More Nerfs Found, Devs Confirm More Changes, Season 1 Ruined!",
+                    "description": "Patch 1.1 is one of the biggest failures in recent gaming history... Enjoy!\nSupport us on Patreon: http://bit.ly/1FUac4S\nHunters Three Channel Shop: https://huntersthree.store/\n\nDiscord Community: https://discord.gg/fQH5buc\n\nMonster Hunter Rise Sunbreak gameplay is on hold for now we look at new Diablo 4 and the Diablo 4 gameplay Diablo 4 best class Diablo 4 Sorceress Barbarian Necromancer Druid Rogue build guide Diablo 4 most powerful class Diablo 4 best build skills abilities Diablo 4 best build all classes highest damage Diablo 4 Diablo 4 Balance Patch Diablo 4 Class Nerfs & Buffs Diablo 4 Patch 1.1 notes breakdown guide explained Diablo 4 Nerf Buff Diablo 4 Expansion Diablo 4 Season 1 Season of the Malignant release date announcement dev stream chat Diablo 4 Cormond New Legendary Aspects Unique Gear Malignant Tunnel Dungeon Season Journey Chapters Battle Pass Favours Malignant Hearts Wrathful Heart Elites Codex Invoker New Bosses Malignant Elites Diablo 4 Patch 1.1 Malignant Heart Crafting New Legendary Aspects Season of the Malignant new boss gameplay chapters story reveal Diablo 4 Season 1 new ultra rare uber unique class nerf buff nightmare dungeon drop rate! Diablo 4 Season of the Malignant 1 prep guide Diablo 4 Patch 1.1 patch notes nerfs xp changes affix gear nerf Diablo 4 Patch 1.1 Campfire Chat backlash!\n\n#diablo4 #diablo4season1patch1.1 #diablo41.1 #season1patch #diablo4seasonofthemalignant #season1 #diablo4patch1.1 #nerf #buff\n\nSubscribe (http://bit.ly/1hTCETC) for more gaming content and read the description to fulfil your dreams!\n\nIncredible thumbnail art by Lighght: https://twitter.com/llighght\n\nFor exclusives, fun times and general shenanigans follow me on:\nTwitter: http://twitter.com/ragegamingvideo\nFacebook: http://www.facebook.com/RageGamingVideos\n\nMore life changing links!\nSteam Group: http://steamcommunity.com/groups/RageGamingVideos\nStream: http://www.twitch.tv/ragegamingvideos\nReddit: http://www.reddit.com/r/RageGaming/\nEmail: ragegaminggeneral@gmail.com\nT-Shirts: http://www.redbubble.com/people/ragegamingvideo/shop\n\nI'm Josh with Cotton and Hollow. We make funny things, we make useful things and we end up in many improbable situations. If you've got this far in the description you are an intrepid explorer of boxes and I approve you as a comrade in curiosity. So join me on this adventure as we make multitudes of majorly magnificent videos as we be excessively modest and have a good time! Thanks for watching and reading, give yourself a cookie."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IE_3PLR7GfR4LS7CAJnMZgJg84Y",
+            "id": "Tix0P-ynx08",
+            "snippet": {
+                "publishedAt": "2023-07-19T09:24:30Z",
+                "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+                "title": "15 Fabulous Secrets in Elden Ring!",
+                "description": "►Check out my Displates here https://displate.com/vaatividya/vaatividya-originals?art=5e87123a79f28\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nCREDITS ▼▼▼\n►Displate artwork by https://www.artstation.com/francoyovich\n►@Quelaag has great lore videos\n►@ZullietheWitch has a great video on Astel https://youtu.be/v5bzgLBMYb4\n►The pillars thread: https://www.reddit.com/r/Eldenring/comments/12t7aoh/on_the_left_the_pillars_reddit_thought_to_have/\n►My Malenia lore video: https://youtu.be/UV3P8c5kNNQ\n►My joint timeline video: https://youtu.be/vT_4jf02wsU\n►Thread on Godrick's leg https://reddit.com/r/Eldenring/comments/12jc0s5/today_i_noticed_that_godricks_left_leg_that_he/\n►Lokey is our resident translator: https://twitter.com/lokey_ds\n►@miss_chalice makes amazing lore videos. You can also find her on TikTok! https://www.tiktok.com/@miss.chalice\n►@Leviathannohit has a great video on the lowest damage attack in Elden Ring https://youtu.be/-a7VWWhhD1g\n►Thread on avoiding the madness eye https://www.reddit.com/r/Eldenring/comments/14chiu0/you_can_literally_fool_the_madness_eye/\n►Thread on the Mausoleum Knights https://www.reddit.com/r/Eldenring/comments/zntf2p/have_you_noticed_the_bloody_streak_running_down/\n►Check out Mauricio Negreira's artwork! https://www.instagram.com/maurinegreira.ad/\n\n\nTIMESTAMPS ▼▼▼\n00:00 I fought all of the Rune Bears\n01:24 Radahn's soldiers used his swords\n02:17 The gravity crest looks a lot like...\n03:20 Why Radahn was holding back the stars\n06:15 Why are Iji's weapons blunt?\n09:16 There's something underneath Liurnia...\n11:20 Elden Ring is Path of Exile\n14:19 Godrick's leg is stolen\n17:23 Roderika's secret\n18:50 The weakest attack in Elden Ring\n19:20 Hide from the Eye\n19:50 Elemer wants YOU to be ascetic\n21:28 Damn, Radagon's got hands\n22:02 Look at the Mausoleum Set...\n22:58 The thumbnail art\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Maurine Negreira https://www.instagram.com/maurinegreira.ad/\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Colonization of Mars\n►A Journeys Epilogue\n►Some Things Were Said\n►Downtown Binary - Gravity\n►Alon Peretz - Song for Heather.\n►Ian Post - Beyond\n►The Monument\n►Character Creation theme (Elden Ring)\n►Lead - Farrell Wooten\n►Documents - Farrell Wooten\n►A Home in the Lowlands - Flouw\n►Roie Shpigler - Coal Clouds\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tix0P-ynx08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tix0P-ynx08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tix0P-ynx08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Tix0P-ynx08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Tix0P-ynx08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "VaatiVidya",
+                "tags": [
+                    "guide",
+                    "walkthrough",
+                    "lore",
+                    "dark",
+                    "souls",
+                    "dlc",
+                    "two",
+                    "bloodborne",
+                    "story",
+                    "vaatividya",
+                    "vaati",
+                    "vidya",
+                    "videos",
+                    "(video",
+                    "game)",
+                    "shadows",
+                    "twice",
+                    "from",
+                    "software",
+                    "sekiro",
+                    "combat",
+                    "tips",
+                    "tricks",
+                    "elden",
+                    "ring",
+                    "trailer",
+                    "demon's souls",
+                    "remake",
+                    "ps5",
+                    "playstation 5",
+                    "demigods",
+                    "great runes",
+                    "radagon",
+                    "mohg",
+                    "malenia",
+                    "miquella",
+                    "leyndell",
+                    "prepare to cry",
+                    "frenzied flame",
+                    "secrets",
+                    "ranni questline",
+                    "rune farm",
+                    "armored core 6",
+                    "vi",
+                    "all endings",
+                    "best build",
+                    "shadow of the erdtree",
+                    "SotE",
+                    "Godrick",
+                    "Radahn",
+                    "runebear",
+                    "Astel",
+                    "Malenia",
+                    "Scarlet Rot",
+                    "Roderika",
+                    "elemer"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "15 Fabulous Secrets in Elden Ring!",
+                    "description": "►Check out my Displates here https://displate.com/vaatividya/vaatividya-originals?art=5e87123a79f28\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nCREDITS ▼▼▼\n►Displate artwork by https://www.artstation.com/francoyovich\n►@Quelaag has great lore videos\n►@ZullietheWitch has a great video on Astel https://youtu.be/v5bzgLBMYb4\n►The pillars thread: https://www.reddit.com/r/Eldenring/comments/12t7aoh/on_the_left_the_pillars_reddit_thought_to_have/\n►My Malenia lore video: https://youtu.be/UV3P8c5kNNQ\n►My joint timeline video: https://youtu.be/vT_4jf02wsU\n►Thread on Godrick's leg https://reddit.com/r/Eldenring/comments/12jc0s5/today_i_noticed_that_godricks_left_leg_that_he/\n►Lokey is our resident translator: https://twitter.com/lokey_ds\n►@miss_chalice makes amazing lore videos. You can also find her on TikTok! https://www.tiktok.com/@miss.chalice\n►@Leviathannohit has a great video on the lowest damage attack in Elden Ring https://youtu.be/-a7VWWhhD1g\n►Thread on avoiding the madness eye https://www.reddit.com/r/Eldenring/comments/14chiu0/you_can_literally_fool_the_madness_eye/\n►Thread on the Mausoleum Knights https://www.reddit.com/r/Eldenring/comments/zntf2p/have_you_noticed_the_bloody_streak_running_down/\n►Check out Mauricio Negreira's artwork! https://www.instagram.com/maurinegreira.ad/\n\n\nTIMESTAMPS ▼▼▼\n00:00 I fought all of the Rune Bears\n01:24 Radahn's soldiers used his swords\n02:17 The gravity crest looks a lot like...\n03:20 Why Radahn was holding back the stars\n06:15 Why are Iji's weapons blunt?\n09:16 There's something underneath Liurnia...\n11:20 Elden Ring is Path of Exile\n14:19 Godrick's leg is stolen\n17:23 Roderika's secret\n18:50 The weakest attack in Elden Ring\n19:20 Hide from the Eye\n19:50 Elemer wants YOU to be ascetic\n21:28 Damn, Radagon's got hands\n22:02 Look at the Mausoleum Set...\n22:58 The thumbnail art\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Maurine Negreira https://www.instagram.com/maurinegreira.ad/\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Colonization of Mars\n►A Journeys Epilogue\n►Some Things Were Said\n►Downtown Binary - Gravity\n►Alon Peretz - Song for Heather.\n►Ian Post - Beyond\n►The Monument\n►Character Creation theme (Elden Ring)\n►Lead - Farrell Wooten\n►Documents - Farrell Wooten\n►A Home in the Lowlands - Flouw\n►Roie Shpigler - Coal Clouds\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VmXkzxKoKbrB3htm5bErLWbkNGk",
+            "id": "rCx9xN9wJ-g",
+            "snippet": {
+                "publishedAt": "2023-07-19T14:00:37Z",
+                "channelId": "UCRDVE5L1LTWhmPAKKbUBGtg",
+                "title": "A Crap Guide to Final Fantasy XIV - Magic DPS",
+                "description": "Tadaaa\n\n►Support me: https://www.patreon.com/user?u=9866256\n►Twitch: https://www.twitch.tv/jocat\n► Gamersupps: https://gamersupps.gg/JoCat \n► Ironside Computers (use code JOCAT for 5% off): https://bit.ly/Ironside_JoCat\n►Merch: https://www.redbubble.com/people/JoCat105/shop\n►Hit Point Press: https://hitpointpress.com?aff=4\n►Twitter: https://twitter.com/JoCat105\n►Stream VODs: https://www.youtube.com/channel/UCqfq3qAqk-VUaX5ZGm8Zbhw\n►Website: https://www.jocat.net/\n\n\nOther music courtesy of Epidemic Sound: https://player.epidemicsound.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rCx9xN9wJ-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rCx9xN9wJ-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rCx9xN9wJ-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rCx9xN9wJ-g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rCx9xN9wJ-g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JoCat",
+                "tags": [
+                    "jocat",
+                    "hijek",
+                    "crap guide"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "A Crap Guide to Final Fantasy XIV - Magic DPS",
+                    "description": "Tadaaa\n\n►Support me: https://www.patreon.com/user?u=9866256\n►Twitch: https://www.twitch.tv/jocat\n► Gamersupps: https://gamersupps.gg/JoCat \n► Ironside Computers (use code JOCAT for 5% off): https://bit.ly/Ironside_JoCat\n►Merch: https://www.redbubble.com/people/JoCat105/shop\n►Hit Point Press: https://hitpointpress.com?aff=4\n►Twitter: https://twitter.com/JoCat105\n►Stream VODs: https://www.youtube.com/channel/UCqfq3qAqk-VUaX5ZGm8Zbhw\n►Website: https://www.jocat.net/\n\n\nOther music courtesy of Epidemic Sound: https://player.epidemicsound.com/"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ImfUPpEcXyBYhtk-bJoIzd3X0aI",
+            "id": "yB9_GWRjTg4",
+            "snippet": {
+                "publishedAt": "2023-07-18T16:59:34Z",
+                "channelId": "UClQubH2NeMmGLTLgNdLBwXg",
+                "title": "I Surprised Aespa With A Custom iPad Mural!",
+                "description": "Watch until I surprise aespa at the end!\n\nGo buy my new signed space Turkey! - https://zhcstore.com/\n\nGo watch aespa's new music video! https://youtu.be/Os_heh8vPfs\nCheck out aespa! @aespa \n\nFollow these. Thank you :)\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yB9_GWRjTg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yB9_GWRjTg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yB9_GWRjTg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yB9_GWRjTg4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yB9_GWRjTg4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ZHC",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I Surprised Aespa With A Custom iPad Mural!",
+                    "description": "Watch until I surprise aespa at the end!\n\nGo buy my new signed space Turkey! - https://zhcstore.com/\n\nGo watch aespa's new music video! https://youtu.be/Os_heh8vPfs\nCheck out aespa! @aespa \n\nFollow these. Thank you :)\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3HE3osHQR6W2hf78g-eD_tdHq7Q",
+            "id": "Ho5HipEer9I",
+            "snippet": {
+                "publishedAt": "2023-07-18T15:47:26Z",
+                "channelId": "UC1Fp52XJH8UKaa_gHMZrckw",
+                "title": "NCAA Champion Julien Alfred BEATS U.S. Champion Sha'Carri Richardson",
+                "description": "Julien Alfred runs 10.89 to defeat Sha'Carri Richardson at the 2023 World Athletics Continental Tour.\n\nWebsite: http://flosports.link/3p20lTj\nSubscribe: http://flosports.link/3p4YLQp\n\nGet the FloSports iOS app: http://bit.ly/FloTrackiOSApp_9\n\nFollow FloTrack\nFacebook: https://www.facebook.com/FloTrack\nTwitter: https://twitter.com/flotrack\nInstagram: https://www.instagram.com/FloTrack",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ho5HipEer9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ho5HipEer9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ho5HipEer9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ho5HipEer9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ho5HipEer9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "FloTrack",
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "NCAA Champion Julien Alfred BEATS U.S. Champion Sha'Carri Richardson",
+                    "description": "Julien Alfred runs 10.89 to defeat Sha'Carri Richardson at the 2023 World Athletics Continental Tour.\n\nWebsite: http://flosports.link/3p20lTj\nSubscribe: http://flosports.link/3p4YLQp\n\nGet the FloSports iOS app: http://bit.ly/FloTrackiOSApp_9\n\nFollow FloTrack\nFacebook: https://www.facebook.com/FloTrack\nTwitter: https://twitter.com/flotrack\nInstagram: https://www.instagram.com/FloTrack"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "qhPcN8m9UBm_r-4GooQJcTj6wWM",
+            "id": "KRuLmhu_aCM",
+            "snippet": {
+                "publishedAt": "2023-07-18T23:46:32Z",
+                "channelId": "UCqynl7rdtktKMQESdSBmE-g",
+                "title": "Minecraft, But I Shrunk My Friends...",
+                "description": "Minecraft, But I Shrunk My Friends... This TEENY TINY gOOFY Minecraft Mod was diabolical in every sense of the word!\n\nFollow my socials:\n➽ Twitter - @sapnap\n➽ Twitch - @sapnap\n➽ Instagram - @sapnapinsta\n\nDream: @dream \nGeorge: @GeorgeNotFound \n\nThis Minecraft 1.19 Mod turned my friends super tiny! George was sooooooo smallll. Everything they did, even breaking blocks in the world was small. They even moved really slow because how of how microscopic they were and how MASSIVE the world was compared to them! This challenge was super fun and I love doing these kinds of videos with my friends!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KRuLmhu_aCM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KRuLmhu_aCM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KRuLmhu_aCM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KRuLmhu_aCM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KRuLmhu_aCM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sapnap",
+                "tags": [
+                    "Minecraft",
+                    "Sapnap",
+                    "Dream",
+                    "Minecraft Challenge",
+                    "Minecraft But",
+                    "Minecraft 1.19",
+                    "Minecraft survival",
+                    "Minecraft But All Mobs Can Fly",
+                    "Minecraft bees in real life",
+                    "I Ate EVERY Food from Minecraft in Real Life",
+                    "Georgenotfound",
+                    "Preston",
+                    "Unspeakable",
+                    "Dreams mom",
+                    "Minecraft youtuber",
+                    "Minecraft youtube",
+                    "Sapnap Minecraft",
+                    "BadBoyHalo Minecraft",
+                    "Dream Minecraft",
+                    "GeorgeNotFound Minecraft",
+                    "DreamTeam",
+                    "1.16",
+                    "minecraft colorblind",
+                    "Dream Team",
+                    "Dream Team Minecraft"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Minecraft, But I Shrunk My Friends...",
+                    "description": "Minecraft, But I Shrunk My Friends... This TEENY TINY gOOFY Minecraft Mod was diabolical in every sense of the word!\n\nFollow my socials:\n➽ Twitter - @sapnap\n➽ Twitch - @sapnap\n➽ Instagram - @sapnapinsta\n\nDream: @dream \nGeorge: @GeorgeNotFound \n\nThis Minecraft 1.19 Mod turned my friends super tiny! George was sooooooo smallll. Everything they did, even breaking blocks in the world was small. They even moved really slow because how of how microscopic they were and how MASSIVE the world was compared to them! This challenge was super fun and I love doing these kinds of videos with my friends!"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rySxgDs48gpLpNk51tWMCP4XYNs",
+            "id": "UE2KQsOT6RY",
+            "snippet": {
+                "publishedAt": "2023-07-18T23:00:21Z",
+                "channelId": "UCCqEeDAUf4Mg0GgEN658tkA",
+                "title": "Barbie - Movie Review",
+                "description": "Chris Stuckmann reviews Barbie, starring Margot Robbie, Ryan Gosling, Will Ferrell, Kate McKinnon, America Ferrera, Ariana Greenblatt, Emma Mackey, Alexandra Shipp, Simu Liu, Issa Rae. Directed by Greta Gerwig.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UE2KQsOT6RY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UE2KQsOT6RY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UE2KQsOT6RY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UE2KQsOT6RY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UE2KQsOT6RY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Chris Stuckmann",
+                "tags": [
+                    "Margot Robbie",
+                    "Ryan Gosling",
+                    "Will Ferrell",
+                    "Kate McKinnon",
+                    "America Ferrera",
+                    "Ariana Greenblatt",
+                    "Emma Mackey",
+                    "Alexandra Shipp",
+                    "Simu Liu",
+                    "Issa Rae",
+                    "Barbie",
+                    "Movie Review",
+                    "Chris Stuckmann",
+                    "Reviews",
+                    "Film",
+                    "Scene",
+                    "Clip",
+                    "Trailer",
+                    "Teaser",
+                    "Song",
+                    "Soundtrack",
+                    "Just Ken",
+                    "Dance",
+                    "Greta Gerwig"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Barbie - Movie Review",
+                    "description": "Chris Stuckmann reviews Barbie, starring Margot Robbie, Ryan Gosling, Will Ferrell, Kate McKinnon, America Ferrera, Ariana Greenblatt, Emma Mackey, Alexandra Shipp, Simu Liu, Issa Rae. Directed by Greta Gerwig."
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dTAVvgL6HHlfK4UpMzrIyzlPakg",
+            "id": "D4AtpsxE4es",
+            "snippet": {
+                "publishedAt": "2023-07-19T10:00:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "[EPISODE] 정국 (Jung Kook) 'Seven (feat. Latto)' MV Shoot Sketch - BTS (방탄소년단)",
+                "description": "#BTSEPISODE #JungKook_Seven #정국 #JungKook #BTS #방탄소년단 \n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D4AtpsxE4es/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D4AtpsxE4es/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D4AtpsxE4es/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D4AtpsxE4es/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D4AtpsxE4es/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "tags": [
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "알엠",
+                    "RM",
+                    "슈가",
+                    "SUGA",
+                    "제이홉",
+                    "jhope",
+                    "지민",
+                    "정국",
+                    "k-pop",
+                    "방탄",
+                    "j-hope",
+                    "Jung Kook",
+                    "Jimin",
+                    "BTS V",
+                    "Jin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[EPISODE] 정국 (Jung Kook) 'Seven (feat. Latto)' MV Shoot Sketch - BTS (방탄소년단)",
+                    "description": "#BTSEPISODE #JungKook_Seven #정국 #JungKook #BTS #방탄소년단 \n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IHxh8trQsA8vgqIwe_EbekGmc34",
+            "id": "XSVRupBiwag",
+            "snippet": {
+                "publishedAt": "2023-07-18T20:00:09Z",
+                "channelId": "UCOrd4AWNd6lOgv0UWv84H2g",
+                "title": "What's Inside GRIMACE SHAKE In GTA 5?",
+                "description": "What is INSIDE Of Grimace Shake In GTA 5 Mods Roleplay?!\n\nSubscribe to King Crane Reacts ► https://bit.ly/2Mw4wsd\nSubscribe to King Crane Plus ► http://bit.ly/35Srvl1\nInstagram - https://www.instagram.com/thekingcranee\nTwitter - http://www.Twitter.com/TheKingCranee\nDiscord - https://discord.gg/cQTXDdX\n\n#GTA5 #whatsinside",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XSVRupBiwag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XSVRupBiwag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XSVRupBiwag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XSVRupBiwag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "King Crane",
+                "tags": [
+                    "king crane",
+                    "kingcrane",
+                    "gta",
+                    "gta 5",
+                    "grand theft auto",
+                    "gta mods",
+                    "whats inside",
+                    "inside",
+                    "king crane gta",
+                    "king crane gta 5",
+                    "grimace",
+                    "grimace shake",
+                    "whats inside grimace shake",
+                    "inside grimace shake",
+                    "gta 5 grimace",
+                    "gta 5 grimace shake"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "What's Inside GRIMACE SHAKE In GTA 5?",
+                    "description": "What is INSIDE Of Grimace Shake In GTA 5 Mods Roleplay?!\n\nSubscribe to King Crane Reacts ► https://bit.ly/2Mw4wsd\nSubscribe to King Crane Plus ► http://bit.ly/35Srvl1\nInstagram - https://www.instagram.com/thekingcranee\nTwitter - http://www.Twitter.com/TheKingCranee\nDiscord - https://discord.gg/cQTXDdX\n\n#GTA5 #whatsinside"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "8B1AsBt8TCEdq7x14L0Qlv2M_l8",
+            "id": "1k9IoClo3mY",
+            "snippet": {
+                "publishedAt": "2023-07-18T16:00:10Z",
+                "channelId": "UCqfqdCqPHxgtdJ0m32obDiw",
+                "title": "YTB Fatt ft Rob 49- Bet I Whip It (Official Video)",
+                "description": "BREADGANG FATT\nIG: @ytbfatt\n\nBooking: \nDanjoe (901)-900-6557\nCP (213)- 479-8876\n\nProduced by @iamdrumgod\nShot by @dieselfilmz",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1k9IoClo3mY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1k9IoClo3mY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1k9IoClo3mY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1k9IoClo3mY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1k9IoClo3mY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YTB Fatt ",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "YTB Fatt ft Rob 49- Bet I Whip It (Official Video)",
+                    "description": "BREADGANG FATT\nIG: @ytbfatt\n\nBooking: \nDanjoe (901)-900-6557\nCP (213)- 479-8876\n\nProduced by @iamdrumgod\nShot by @dieselfilmz"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GE2ThY8lqgjowSj0hSCFdHpTbcs",
+            "id": "yEddsSwweyE",
+            "snippet": {
+                "publishedAt": "2023-07-19T12:39:34Z",
+                "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+                "title": "A Haunting In Venice | Official Trailer | In Theaters Sept 15",
+                "description": "Death comes for everyone.\n\nWatch the brand-new trailer for #AHauntingInVenice, only in theaters September 15.\n\nThe unsettling supernatural thriller based upon the novel “Hallowe’en Party” by Agatha Christie and directed by and starring Oscar® winner Kenneth Branagh as famed detective Hercule Poirot, will open in theaters nationwide September 15, 2023. \n\n“A Haunting in Venice” is set in eerie, post-World War II Venice on All Hallows’ Eve, “A Haunting in Venice” is a terrifying mystery featuring the return of the celebrated sleuth, Hercule Poirot. Now retired and living in self-imposed exile in the world’s most glamorous city, Poirot reluctantly attends a séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.\n\nReuniting the team of filmmakers behind 2017’s “Murder on the Orient Express” and 2022’s “Death on the Nile,” the film is directed by Kenneth Branagh with a screenplay by Oscar® nominee Michael Green (“Logan”) based upon Agatha Christie’s novel Hallowe’en Party. The producers are Kenneth Branagh, Judy Hofflund, Ridley Scott, and Simon Kinberg, with Louise Killin, James Prichard, and Mark Gordon serving as executive producers. A brilliant acting ensemble portrays  a cast of unforgettable characters, including Kenneth Branagh, Kyle Allen (“Rosaline”), Camille Cottin (“Call My Agent”), Jamie Dornan (“Belfast”), Tina Fey (“30 Rock”), Jude Hill (“Belfast”), Ali Khan (“6 Underground”), Emma Laird (“Mayor of Kingstown”), Kelly Reilly (“Yellowstone”), Riccardo Scamarcio (“Caravaggio’s Shadow”), and recent Oscar winner Michelle Yeoh (“Everything Everywhere All at Once”).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yEddsSwweyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yEddsSwweyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yEddsSwweyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yEddsSwweyE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yEddsSwweyE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "20th Century Studios",
+                "tags": [
+                    "20th Century Studios",
+                    "New",
+                    "Original",
+                    "Trailer",
+                    "Official Trailer"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "A Haunting In Venice | Official Trailer | In Theaters Sept 15",
+                    "description": "Death comes for everyone.\n\nWatch the brand-new trailer for #AHauntingInVenice, only in theaters September 15.\n\nThe unsettling supernatural thriller based upon the novel “Hallowe’en Party” by Agatha Christie and directed by and starring Oscar® winner Kenneth Branagh as famed detective Hercule Poirot, will open in theaters nationwide September 15, 2023. \n\n“A Haunting in Venice” is set in eerie, post-World War II Venice on All Hallows’ Eve, “A Haunting in Venice” is a terrifying mystery featuring the return of the celebrated sleuth, Hercule Poirot. Now retired and living in self-imposed exile in the world’s most glamorous city, Poirot reluctantly attends a séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.\n\nReuniting the team of filmmakers behind 2017’s “Murder on the Orient Express” and 2022’s “Death on the Nile,” the film is directed by Kenneth Branagh with a screenplay by Oscar® nominee Michael Green (“Logan”) based upon Agatha Christie’s novel Hallowe’en Party. The producers are Kenneth Branagh, Judy Hofflund, Ridley Scott, and Simon Kinberg, with Louise Killin, James Prichard, and Mark Gordon serving as executive producers. A brilliant acting ensemble portrays  a cast of unforgettable characters, including Kenneth Branagh, Kyle Allen (“Rosaline”), Camille Cottin (“Call My Agent”), Jamie Dornan (“Belfast”), Tina Fey (“30 Rock”), Jude Hill (“Belfast”), Ali Khan (“6 Underground”), Emma Laird (“Mayor of Kingstown”), Kelly Reilly (“Yellowstone”), Riccardo Scamarcio (“Caravaggio’s Shadow”), and recent Oscar winner Michelle Yeoh (“Everything Everywhere All at Once”)."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "V3BLHkw5Y4xVFa7R4orthui19UY",
+            "id": "4SeE6rJrnfc",
+            "snippet": {
+                "publishedAt": "2023-07-18T18:00:10Z",
+                "channelId": "UCBJn8qy6bI82Oh34kzHViPQ",
+                "title": "beabadoobee - the way things go",
+                "description": "Beabadoobee - the way things go (official video)\nhttps://beabadoobee.ffm.to/thewaythingsgo\n\nDirected by Jake Erland.\n\nLYRICS: \n\nso much left say, \nI guess I’m just the bigger guy  \nand there’s  too much in my mind\nthat I don’t even want to try \nguess\nnot far from the ordinary they do say that love is blind \nand I  guess that’s just the way things go p\n\nI can’t remember how to say your name \nlet alone count all freckles on your face \na distant memory i used to know \n\ncan’t remember when you said you called \nmiles away and it was still my fault \nthe love you said you had it sometimes showed \nI guess that’s just the way things go \n\nso much left say, \nI guess I’m just the bigger guy  \nand there’s  too much in my mind\nthat I don’t even want to try \nguess\nnot far from the ordinary they do say that love is blind \nand I guess that’s just the way things go p\n\ndidn’t think you’d ever stoop so low \ngetting with the only girl you know \na lousy route that only makes me say \n‘that’s pretty lame ‘\nand that’s the way things go ?\noh I guess that’s just the way things go\n\npassed your house when I was on a train\nin my mind you’ll always stay the same \nI’m happy now I ought to let you know\nbut I guess that’s just the way things go \nand I don’t mind that that’s the way thing go \nand I don’t mind that that’s the way things go \n\nand I don’t mind \nI don’t mind",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4SeE6rJrnfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4SeE6rJrnfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4SeE6rJrnfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4SeE6rJrnfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4SeE6rJrnfc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "beabadoobeeVEVO",
+                "tags": [
+                    "beabadoobee",
+                    "beatopia",
+                    "bebadobe",
+                    "beabadobe",
+                    "bea",
+                    "dirty hit",
+                    "the way things go",
+                    "thewaythingsgo",
+                    "bea and jake",
+                    "beaandjake",
+                    "dirtyhit",
+                    "glue song",
+                    "gluesong",
+                    "bebadoobe",
+                    "beabadobee"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "beabadoobee - the way things go",
+                    "description": "Beabadoobee - the way things go (official video)\nhttps://beabadoobee.ffm.to/thewaythingsgo\n\nDirected by Jake Erland.\n\nLYRICS: \n\nso much left say, \nI guess I’m just the bigger guy  \nand there’s  too much in my mind\nthat I don’t even want to try \nguess\nnot far from the ordinary they do say that love is blind \nand I  guess that’s just the way things go p\n\nI can’t remember how to say your name \nlet alone count all freckles on your face \na distant memory i used to know \n\ncan’t remember when you said you called \nmiles away and it was still my fault \nthe love you said you had it sometimes showed \nI guess that’s just the way things go \n\nso much left say, \nI guess I’m just the bigger guy  \nand there’s  too much in my mind\nthat I don’t even want to try \nguess\nnot far from the ordinary they do say that love is blind \nand I guess that’s just the way things go p\n\ndidn’t think you’d ever stoop so low \ngetting with the only girl you know \na lousy route that only makes me say \n‘that’s pretty lame ‘\nand that’s the way things go ?\noh I guess that’s just the way things go\n\npassed your house when I was on a train\nin my mind you’ll always stay the same \nI’m happy now I ought to let you know\nbut I guess that’s just the way things go \nand I don’t mind that that’s the way thing go \nand I don’t mind that that’s the way things go \n\nand I don’t mind \nI don’t mind"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "c5ZJmf5iVI5RFYPdQXfpHLYzqy4",
+            "id": "j2Pe_sUms94",
+            "snippet": {
+                "publishedAt": "2023-07-18T19:00:18Z",
+                "channelId": "UCjVLCcrQsYX7Lu98pOcP3GA",
+                "title": "change",
+                "description": "Follow Me on Instagram : https://www.instagram.com/nicolassturniolo \n\nFollow Me on TikTok : https://www.tiktok.com/@nicolassturniolo\n\nAdd me on Snapchat : @nicolassturn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j2Pe_sUms94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j2Pe_sUms94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j2Pe_sUms94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j2Pe_sUms94/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j2Pe_sUms94/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nicolas Sturniolo",
+                "tags": [
+                    "Nick sturniolo",
+                    "Nicolas sturniolo",
+                    "Nicolas sturniolo hair",
+                    "Nick sturniolo hair",
+                    "Nicolas sturniolo blonde",
+                    "Nick sturniolo blonde",
+                    "Nick sturniolo best moments",
+                    "Nicolas sturniolo change",
+                    "Nicolas sturniolo hair salon",
+                    "Sturniolo",
+                    "Sturniolos",
+                    "Nick sturniolo lip balm",
+                    "Nicolas sturniolo Q&A"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "change",
+                    "description": "Follow Me on Instagram : https://www.instagram.com/nicolassturniolo \n\nFollow Me on TikTok : https://www.tiktok.com/@nicolassturniolo\n\nAdd me on Snapchat : @nicolassturn"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "phBoiX89fU03HcsMi4x1WJw5zIg",
+            "id": "FhVOY0EfsPA",
+            "snippet": {
+                "publishedAt": "2023-07-19T16:00:20Z",
+                "channelId": "UCr7ZFxNlDvb3waeoTN1_3mA",
+                "title": "'The Summer I Turned Pretty' Cast Plays \"I Dare You\" | Teen Vogue",
+                "description": "The cast of Amazon Prime's 'The Summer I Turned Pretty' plays a fun game of \"I Dare You!\" Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, David Iacono & Elsie Fisher take turns choosing between truths or dares to test their boldness. See the stars eat spoonfuls of hot sauce, battle each other in a dance-off, fold a fitted sheet in 30 seconds and more! Which member SCREAMED after an accidental kiss? Watch to find out!\r\n\r\nSAG-AFTRA members are currently on strike; as part of the strike, union actors are not promoting their film and TV projects. This video was conducted prior to the strike.\n\nStill haven’t subscribed to Teen Vogue on YouTube? ►► http://bit.ly/tvyoutubesub \r\n\r\nABOUT TEEN VOGUE\r\nFashion, beauty tips, celebrity style, pop culture, videos, and more—everything you need to be ahead of the trends.  Fashion starts here.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FhVOY0EfsPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FhVOY0EfsPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FhVOY0EfsPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FhVOY0EfsPA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FhVOY0EfsPA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Teen Vogue",
+                "tags": [
+                    "amazon",
+                    "amazon prime",
+                    "belly conrad jeremiah",
+                    "celebrity",
+                    "christopher briney",
+                    "comedy",
+                    "david iacono",
+                    "drama",
+                    "elsie fisher",
+                    "entertainment",
+                    "gavin casalegno",
+                    "jenny han",
+                    "lola tung",
+                    "sean kaufman",
+                    "summer i turned pretty",
+                    "team conrad",
+                    "team jeremiah",
+                    "teen drama",
+                    "teen vogue",
+                    "the summer i turned pretty",
+                    "the summer i turned pretty belly",
+                    "the summer i turned pretty cast",
+                    "the summer i turned pretty interview",
+                    "the summer i turned pretty season 2",
+                    "tsitp",
+                    "tsitp interview",
+                    "tv"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "'The Summer I Turned Pretty' Cast Plays \"I Dare You\" | Teen Vogue",
+                    "description": "The cast of Amazon Prime's 'The Summer I Turned Pretty' plays a fun game of \"I Dare You!\" Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, David Iacono & Elsie Fisher take turns choosing between truths or dares to test their boldness. See the stars eat spoonfuls of hot sauce, battle each other in a dance-off, fold a fitted sheet in 30 seconds and more! Which member SCREAMED after an accidental kiss? Watch to find out!\r\n\r\nSAG-AFTRA members are currently on strike; as part of the strike, union actors are not promoting their film and TV projects. This video was conducted prior to the strike.\n\nStill haven’t subscribed to Teen Vogue on YouTube? ►► http://bit.ly/tvyoutubesub \r\n\r\nABOUT TEEN VOGUE\r\nFashion, beauty tips, celebrity style, pop culture, videos, and more—everything you need to be ahead of the trends.  Fashion starts here."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QN_kOkRoRnCaJe5hly4kjPkwLBQ",
+            "id": "ABhqPwzX-R4",
+            "snippet": {
+                "publishedAt": "2023-07-19T07:00:04Z",
+                "channelId": "UCQT0webZ9KUz0-GPisc3Ovw",
+                "title": "Baby name announcement, Griffin’s first birthday & my parents are moving in | Ep. 25",
+                "description": "Follow The Unplanned Podcast:\nhttps://www.instagram.com/unplanned__podcast/\nhttps://www.tiktok.com/@unplanned_podcast\nhttps://www.youtube.com/@UnplannedPodcastCLIPS\n\nListen on Spotify/ Apple Podcasts: \nhttps://open.spotify.com/show/1ToDA4ufQuWuEgMq07zN6t\nhttps://podcasts.apple.com/us/podcast/the-unplanned-podcast/id1669604504\n\nFollow Matt & Abby:\nAbby's Instagram | https://www.instagram.com/abbyelizabethoward/\nMatt's Instagram | https://www.instagram.com/_matt_howard_/\nTikTok | https://www.tiktok.com/@matt_and_abby\nFacebook | https://www.facebook.com/mattandabb\nYouTube | https://www.youtube.com/@MattandAbby\n\nBusiness inquiries: business@mattandabby.co\n\nChapters:\n00:00 - Episode 25\n\n#unplannedpodcast #mattandabby",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ABhqPwzX-R4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ABhqPwzX-R4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ABhqPwzX-R4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ABhqPwzX-R4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ABhqPwzX-R4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Unplanned Podcast",
+                "tags": [
+                    "Matt & Abby",
+                    "Matt & Abby Podcast"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Baby name announcement, Griffin’s first birthday & my parents are moving in | Ep. 25",
+                    "description": "Follow The Unplanned Podcast:\nhttps://www.instagram.com/unplanned__podcast/\nhttps://www.tiktok.com/@unplanned_podcast\nhttps://www.youtube.com/@UnplannedPodcastCLIPS\n\nListen on Spotify/ Apple Podcasts: \nhttps://open.spotify.com/show/1ToDA4ufQuWuEgMq07zN6t\nhttps://podcasts.apple.com/us/podcast/the-unplanned-podcast/id1669604504\n\nFollow Matt & Abby:\nAbby's Instagram | https://www.instagram.com/abbyelizabethoward/\nMatt's Instagram | https://www.instagram.com/_matt_howard_/\nTikTok | https://www.tiktok.com/@matt_and_abby\nFacebook | https://www.facebook.com/mattandabb\nYouTube | https://www.youtube.com/@MattandAbby\n\nBusiness inquiries: business@mattandabby.co\n\nChapters:\n00:00 - Episode 25\n\n#unplannedpodcast #mattandabby"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QKWpn6tbyDcYevSJrOJ5owA1Khw",
+            "id": "5mutcH0B7XU",
+            "snippet": {
+                "publishedAt": "2023-07-18T22:00:02Z",
+                "channelId": "UCJZam2u1G0syq3kyqrCXrNw",
+                "title": "100 Pranks to Make Your Friends RAGE Quit",
+                "description": "👕 MERCH - http://www.firemerch.com \n\n🔥 NEW Fire Merch App - https://tinyurl.com/mvsnxr6\n\n\n👀 FOLLOW ME HERE!\n☛ TikTok - https://www.tiktok.com/@preston\n☛ Instagram - https://instagram.com/prestonplayz\n☛ Twitter - https://twitter.com/Preston\n☛ PrestonShorts - https://bit.ly/2VrTLIr\n\n🎮 Join my Fan Discord! \n☛ http://discord.gg/Preston\n\n------------------------------\n\nAdditional music provided by Epidemic Sound\nClick here for a free trial!  http://share.epidemicsound.com/TBNR\n\n#minecraft",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5mutcH0B7XU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5mutcH0B7XU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5mutcH0B7XU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PrestonPlayz",
+                "tags": [
+                    "minecraft",
+                    "preston",
+                    "brianna",
+                    "gaming",
+                    "funny",
+                    "family friendly",
+                    "ssundee",
+                    "unspeakable",
+                    "mrbeast",
+                    "aphmau",
+                    "canman",
+                    "lankybox",
+                    "cash minecraft",
+                    "nico mc",
+                    "stokestwins",
+                    "gametoons",
+                    "maizen",
+                    "eyestreem"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "100 Pranks to Make Your Friends RAGE Quit",
+                    "description": "👕 MERCH - http://www.firemerch.com \n\n🔥 NEW Fire Merch App - https://tinyurl.com/mvsnxr6\n\n\n👀 FOLLOW ME HERE!\n☛ TikTok - https://www.tiktok.com/@preston\n☛ Instagram - https://instagram.com/prestonplayz\n☛ Twitter - https://twitter.com/Preston\n☛ PrestonShorts - https://bit.ly/2VrTLIr\n\n🎮 Join my Fan Discord! \n☛ http://discord.gg/Preston\n\n------------------------------\n\nAdditional music provided by Epidemic Sound\nClick here for a free trial!  http://share.epidemicsound.com/TBNR\n\n#minecraft"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ctrtSZGLh-dZMwR5FLV-_YDnfb0",
+            "id": "Fr7oYjnt3bM",
+            "snippet": {
+                "publishedAt": "2023-07-18T16:00:20Z",
+                "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+                "title": "Luke Combs - Fast Car (Official Live Video)",
+                "description": "Listen to \"Fast Car\" from Luke's new album,\n'Gettin' Old' out now: https://LC.lnk.to/GettinOld\n  \nListen On:\nApple Music: https://LC.lnk.to/GettinOldAY/applemusic       \nSpotify: https://LC.lnk.to/GettinOldAY/spotify      \nAmazon Music: https://LC.lnk.to/GettinOldAY/amazonmusic    \niTunes: https://LC.lnk.to/GettinOldAY/itunes \nPandora: https://LC.lnk.to/GettinOldAY/pandora \nYouTube Music: https://LC.lnk.to/GettinOldAY/youtubemusic   \nYouTube: https://LC.lnk.to/GettinOldAY/youtube  \n  \nChorus:\nSo I remember we were driving, driving in your car\nSpeed so fast, I felt like I was drunk\nCity lights lay out before us\nAnd your arm felt nice wrapped around my shoulder\nAnd I-I, had a feeling that I belonged\nI-I had a feeling I could be someone, be someone, be someone\n\n\nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite\n \n#LukeCombs #FastCar #Official",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fr7oYjnt3bM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fr7oYjnt3bM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fr7oYjnt3bM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Fr7oYjnt3bM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Fr7oYjnt3bM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LukeCombsVEVO",
+                "tags": [
+                    "luke combs",
+                    "gettin’ old",
+                    "growin’ up",
+                    "unreleased original",
+                    "joe",
+                    "grand ole opry",
+                    "unreleased",
+                    "forever after all",
+                    "the other guy",
+                    "without you",
+                    "my kinda folk",
+                    "cold as you",
+                    "what you see ain’t always what you get",
+                    "tiktok",
+                    "better together",
+                    "even though im leaving",
+                    "live",
+                    "lyrics",
+                    "what you see is what you get",
+                    "when it rains it pours",
+                    "does to me",
+                    "eric church",
+                    "official video",
+                    "beer never broke my heart",
+                    "lovin on you",
+                    "she got the best of me",
+                    "long neck ice cold"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Luke Combs - Fast Car (Official Live Video)",
+                    "description": "Listen to \"Fast Car\" from Luke's new album,\n'Gettin' Old' out now: https://LC.lnk.to/GettinOld\n  \nListen On:\nApple Music: https://LC.lnk.to/GettinOldAY/applemusic       \nSpotify: https://LC.lnk.to/GettinOldAY/spotify      \nAmazon Music: https://LC.lnk.to/GettinOldAY/amazonmusic    \niTunes: https://LC.lnk.to/GettinOldAY/itunes \nPandora: https://LC.lnk.to/GettinOldAY/pandora \nYouTube Music: https://LC.lnk.to/GettinOldAY/youtubemusic   \nYouTube: https://LC.lnk.to/GettinOldAY/youtube  \n  \nChorus:\nSo I remember we were driving, driving in your car\nSpeed so fast, I felt like I was drunk\nCity lights lay out before us\nAnd your arm felt nice wrapped around my shoulder\nAnd I-I, had a feeling that I belonged\nI-I had a feeling I could be someone, be someone, be someone\n\n\nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite\n \n#LukeCombs #FastCar #Official"
+                }
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
