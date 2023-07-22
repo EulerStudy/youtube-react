@@ -13,11 +13,11 @@ export default function SearchHeader() {
 
   const handelSubmit = (e) => { 
     e.preventDefault()
-    navigate(`/videos/${text}`)
+    navigate(`/youtube-react/videos/${text}`)
   }
   return (
     <header className='w-full flex p-4 tex-2xl border-b border-zinc-600 mb-4'>
-      <Link to='/' className='flex items-center'>
+      <Link to='/youtube-react' className='flex items-center'>
         <BsYoutube className='text-4xl text-brand'/>
         <h1 className='font-bold ml-2 text-3xl'>Youtube</h1>     
       </Link>

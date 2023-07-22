@@ -11,7 +11,7 @@ export default function VideoCard({video, type}) {
     <li 
       className={isList ? 'flex gap-1 m2' : ''}
       onClick={()=>{
-      navigate(`/videos/watch/${video.id}`, { state: {video}})
+      navigate(`/youtube-react/videos/watch/${video.id}`, { state: {video}})
     }}>
       <img className={isList ? 'w-60 mr-2' : 'w-full'} src={thumbnails.medium.url} alt={title} />
       <div>
