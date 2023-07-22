@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/youtube-react/static/css/main.a9c945ad.css",
-    "main.js": "/youtube-react/static/js/main.c47b1f0c.js",
+    "main.js": "/youtube-react/static/js/main.ee45801f.js",
     "static/js/27.6802cae1.chunk.js": "/youtube-react/static/js/27.6802cae1.chunk.js",
     "index.html": "/youtube-react/index.html"
   },
   "entrypoints": [
     "static/css/main.a9c945ad.css",
-    "static/js/main.c47b1f0c.js"
+    "static/js/main.ee45801f.js"
   ]
 }
